@@ -1,4 +1,4 @@
 # repositorioFDB
 
-*integrantes do grupo*
-vitor manuel
+*integrantes do grupo: *
+vitor  manuel
